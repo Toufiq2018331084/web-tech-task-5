@@ -28,3 +28,7 @@
 .product > price {
     margin-top:5px;
 }
+.product_info{
+    height: 100px;
+    margin-bottom: 15px;
+}
